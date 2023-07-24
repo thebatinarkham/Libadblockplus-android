@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string name="app_name">AdblockWebView App</string>
+    <string name="settings_name">Settings</string>
+
+    <string name="main_ok">GO</string>
+    <string name="main_prev">&lt;</string>
+    <string name="main_next">&gt;</string>
+    <string name="main_settings">Settings</string>
+    <string name="main_add_tab">Add tab</string>
+    <string name="main_tab_title">Tab #</string>
+    <string name="main_restore_checkbox">Restore tabs</string>
+    <string name="main_iframes_eh_checkbox">Enable EH (emu) in iframes</string>
+
+    <string name="fragment_tab_counter_unset">-</string>
+    <string name="fragment_tab_blocked_counter_unset">@string/fragment_tab_counter_unset</string>
+    <string name="fragment_tab_wl_counter_unset">@string/fragment_tab_counter_unset</string>
+
+    <!-- add subscription toast message -->
+    <string name="subscription_enabled">Enabled subscription</string>
+    <string name="subscription_already_listed_and_enabled">Already listed and enabled subscription</string>
+    <string name="subscription_added_and_enabled">Added injected subscription</string>
+</resources>
